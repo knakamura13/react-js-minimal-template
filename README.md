@@ -18,5 +18,6 @@ Launch the app: `npm start`
 
 Enjoy!
 
-Screenshots:
+## Screenshots
+
 ![Home Component](https://github.com/knakamura13/react-js-minimal-template/blob/master/examples/images/home_component.png)
